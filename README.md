@@ -1,5 +1,14 @@
 # create-svelte
 
+- https://dev.to/robertobutti/how-to-start-building-your-static-website-with-svelte-and-tailwindcss-hbk
+- https://github.com/svelte-add/tailwindcss
+- https://dev.to/swyx/how-to-set-up-svelte-with-tailwind-css-4fg5
+- https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp
+- https://github.com/MikeBild/sveltekit-adapter-aws
+
+- 
+
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
