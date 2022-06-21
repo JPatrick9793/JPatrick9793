@@ -9,8 +9,8 @@ const config = {
     kit: {
         adapter: adapter({
             // default options are shown
-            pages: 'build',
-            assets: 'build',
+            pages: 'docs',
+            assets: 'docs',
             fallback: null,
             precompress: false
         }),
@@ -21,7 +21,7 @@ const config = {
         },
 
         paths: {
-            base: '/your-repo-name',
+            base: '/JPatrick9793',
         },
         // If you are not using a .nojekyll file, change your appDir to something not starting with an underscore.
         // For example, instead of '_app', use 'app_', 'internal', etc.
