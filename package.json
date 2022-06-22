@@ -7,17 +7,26 @@
         "package": "svelte-kit package",
         "preview": "svelte-kit preview",
         "prepare": "svelte-kit sync",
-        "deploy": "node ./gh-pages.js"
+        "deploy": "node ./gh-pages.js",
+        "@fortawesome/fontawesome-free": "5.15.3",
+        "bootstrap": "4.6.0",
+        "chart.js": "2.9.4",
+        "datatables.net-bs4": "1.10.24",
+        "jquery": "3.6.0",
+        "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
         "@sveltejs/adapter-auto": "next",
         "@sveltejs/adapter-static": "^1.0.0-next.34",
         "@sveltejs/kit": "next",
         "autoprefixer": "^10.4.4",
+        "browser-sync": "2.26.14",
         "gh-pages": "^4.0.0",
         "postcss": "^8.4.12",
         "postcss-load-config": "^3.1.4",
+        "rollup-plugin-copy": "^3.4.0",
         "svelte": "^3.44.0",
+        "svelte-motion": "^0.11.2",
         "svelte-preprocess": "^4.10.7",
         "tailwindcss": "^3.0.23"
     },

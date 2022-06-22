@@ -5,6 +5,11 @@
 - https://dev.to/swyx/how-to-set-up-svelte-with-tailwind-css-4fg5
 - https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp
 - https://github.com/MikeBild/sveltekit-adapter-aws
+- https://heroicons.com/
+- 
+- 
+- 
+- 
 
 - 
 
