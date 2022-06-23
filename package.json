@@ -30,5 +30,8 @@
         "svelte-preprocess": "^4.10.7",
         "tailwindcss": "^3.0.23"
     },
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "rollup-plugin-css-only": "^3.1.0"
+    }
 }
