@@ -6,8 +6,8 @@
 - https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp
 - https://github.com/MikeBild/sveltekit-adapter-aws
 - https://heroicons.com/
-- 
-- 
+- https://javascript.plainenglish.io/sveltekit-github-pages-4fe2844773de
+- https://github.com/startbootstrap/startbootstrap-sb-admin-2
 - 
 - 
 
